@@ -1,6 +1,7 @@
 # Retail Crisis & Recovery Analysis
 
-Python-based retail analytics project developed for a visualization and business intelligence challenge.
+Python-based retail analytics project developed for a visualization and business intelligence challenge hosted by DQLab x UjiKompetensi.
+Dataset: https://github.com/UjiKompetensi-com/Hackathon-DQLab-Python-03/releases/tag/V1.0
 
 ## Features
 - Rising Star Product Detection
